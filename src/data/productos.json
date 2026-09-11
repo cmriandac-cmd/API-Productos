@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Lenovo",
+        "descripcion": "Laptop para desarrollo web",
+        "precio": 4500,
+        "stock": 10,
+        "categoria": "Tecnología"
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse inalámbrico",
+        "descripcion": "Mouse inalámbrico USB",
+        "precio": 150,
+        "stock": 20,
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 3,
+        "nombre": "Teclado mecánico",
+        "descripcion": "Teclado mecánico para computadora",
+        "precio": 350,
+        "stock": 15,
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 4,
+        "nombre": "Impresora HP",
+        "descripcion": "Impresora multifuncional",
+        "precio": 1800,
+        "stock": 5,
+        "categoria": "Oficina"
+    }
+]
