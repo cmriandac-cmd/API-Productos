@@ -27,3 +27,10 @@ Para instalar el proyecto, ejecutar:
 
 ```bash
 npm install
+
+## Ejecución
+
+Para iniciar el servidor en modo local, ejecutar:
+
+```bash
+npm start
